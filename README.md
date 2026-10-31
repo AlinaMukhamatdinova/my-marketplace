@@ -31,7 +31,7 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/твой-ник/my-marketplace.git
+   https://github.com/AlinaMukhamatdinova/my-marketplace.git
 
 2. Перейдите в папку проекта:
 ```bash
